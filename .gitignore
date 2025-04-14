@@ -10,6 +10,8 @@
 \#*\#
 
 docker-compose.override.yml
+./tempo-data/
+
 
 # Eclipse
 .classpath
